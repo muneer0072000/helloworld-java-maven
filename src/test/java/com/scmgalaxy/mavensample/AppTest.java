@@ -6,7 +6,7 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
- * Muneer Modifications
+ * Muneer Modifications for FIR-1
  */
 public class AppTest 
     extends TestCase
