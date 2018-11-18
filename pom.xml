@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>yoodle</artifactId>
   <packaging>jar</packaging>
-  <version>5.0.0</version>
+  <version>1.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -48,7 +48,7 @@
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepo/</url>
+		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepoSnapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
