@@ -40,13 +40,13 @@
   
 <distributionManagement>
 	<repository>
-		<id>tata</id>
-		<name>Internal Releases</name>
+		<id>deployment</id>
+		<name>Internal Releases1</name>
 		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepo/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>tata</id>
+		<id>deployment</id>
 		<name>Internal Releases</name>
 		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepo/</url>
 	</snapshotRepository>
