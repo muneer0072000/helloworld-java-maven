@@ -42,13 +42,13 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url>
+		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepo/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url>
+		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepo/</url>
 	</snapshotRepository>
 
 </distributionManagement>
