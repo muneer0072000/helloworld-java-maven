@@ -40,15 +40,13 @@
   
 <distributionManagement>
 	<repository>
-		<id>deployment</id>
-		<name>Internal Releases1</name>
-		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepo/</url>
-	</repository>
+    		<id>MuneerVitualRepo</id>
+    		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepo</url>
+  	</repository>
  
 	<snapshotRepository>
-		<id>deployment</id>
-		<name>Internal Releases</name>
-		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepoSnapshot/</url>
+		<id>MuneerVitualRepoSnapshot</id>
+		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepoSnapshot</url>
 	</snapshotRepository>
 
 </distributionManagement>
