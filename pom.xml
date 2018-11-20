@@ -42,13 +42,13 @@
 	<repository>
     		<id>deployment</id>
 		<name>MuneerVitualRepo</name>
-    		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepo/</url>
+    		<url>http://localhost:8081/repository/MuneerVitualRepo/</url>
   	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>MuneerVitualRepoSnapshot</name>
-		<url>http://localhost:8081/nexus/content/repositories/MuneerVitualRepoSnapshot/</url>
+		<url>hhttp://localhost:8081/repository/MuneerVitualRepoSnapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
